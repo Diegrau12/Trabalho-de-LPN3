@@ -1,0 +1,15 @@
+1 - Fazer três colunas com sete cartas em cada uma.
+2 - escolher uma carta em meio delas.
+3 - ao distribuir as cartas deverá ser colocada uma carta em cada coluna intercalando até até o baralho acabar.
+4 - sempre ao juntar as cartas a coluna escolhida sempre deverá ser colocada no meio do baralho.
+5 - deverá ser repitido mais duas vezes o preocesso lembrando de sempre a coluna da carta escolhida sempre deve ser colocada no meio, a carta escolhida pode 
+mudar de posição e de coluna .
+6 - no momento de revelar a carta deve ser contado de 0 a 10 até chegar a carta escolhida.
+7 - a carta escolhida será a 11° sendo assim a carta do meio
+
+
+
+
+
+
+
